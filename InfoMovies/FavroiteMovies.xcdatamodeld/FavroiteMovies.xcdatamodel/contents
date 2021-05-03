@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17192" systemVersion="19H524" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="FavouriteMovie" representedClassName="FavouriteMovie" syncable="YES">
+        <attribute name="imdbId" optional="YES" attributeType="String"/>
+        <attribute name="poster" optional="YES" attributeType="Binary"/>
+        <attribute name="title" optional="YES" attributeType="String"/>
+        <attribute name="yearOfRelease" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="FavouriteMovie" positionX="-45" positionY="0" width="128" height="103"/>
+    </elements>
+</model>
